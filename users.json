@@ -1,0 +1,52 @@
+{
+  "CUF8P851rexvZuxspPcLhEKAzGH6bWNdhvSv3P9Sxcpv": {
+    "identifier": "KJ8vH5ZMBYbpQllXHCNlLAT3",
+    "wallet": "CUF8P851rexvZuxspPcLhEKAzGH6bWNdhvSv3P9Sxcpv",
+    "nickname": "1234",
+    "lastConnectionDate": "2025-02-24T11:48:35.858Z",
+    "lastNicknameChange": ""
+  },
+  "42NfCA3SkTdCLPk2mH7HpopZU9o7ktoEVwBcDQ2VbUxN": {
+    "identifier": "SS9wquLVvm9HJ5NtUCJooLQj",
+    "wallet": "42NfCA3SkTdCLPk2mH7HpopZU9o7ktoEVwBcDQ2VbUxN",
+    "nickname": "waaa",
+    "lastConnectionDate": "2025-03-19T12:54:02.349Z",
+    "lastNicknameChange": "2025-03-19T12:54:07.226Z",
+    "credits": 100
+  },
+  "BwEeb9D1RmDQJ5DPwoD5rehJTUfQTgEByzmwhusMaeEy": {
+    "identifier": "fFF01yAbDoF3tye2lZ0mPsyx",
+    "wallet": "BwEeb9D1RmDQJ5DPwoD5rehJTUfQTgEByzmwhusMaeEy",
+    "nickname": "User_1913ccdfe28c5cad34d1ded6",
+    "lastConnectionDate": "2025-02-28T16:03:18.481Z",
+    "lastNicknameChange": ""
+  },
+  "AaWWHxaQHkiXq59Wz1CLeHFtMRuL46QiyMwfZooioFPD": {
+    "identifier": "pnfmKc5jixyH2AoORaAO2DXE",
+    "wallet": "AaWWHxaQHkiXq59Wz1CLeHFtMRuL46QiyMwfZooioFPD",
+    "nickname": "waze",
+    "lastConnectionDate": "2025-03-08T02:45:53.422Z",
+    "lastNicknameChange": "2025-03-08T02:46:06.530Z"
+  },
+  "1Rz7hoY2b9WVXEGHFiQcFheovqDASURLUh9f8ZBaoDq": {
+    "identifier": "p9kuFvKpy7uZUzJp6pEfoT3j",
+    "wallet": "1Rz7hoY2b9WVXEGHFiQcFheovqDASURLUh9f8ZBaoDq",
+    "nickname": "BALLONBLOW",
+    "lastConnectionDate": "2025-03-14T18:47:03.120Z",
+    "lastNicknameChange": "2025-03-14T18:49:08.212Z"
+  },
+  "3m3Pfj2qq9K9LdJoJPZVBL2z8wbQAUPCzQAAAmasDR6k": {
+    "identifier": "9NiAcWA9uvgEDUCQFpVVRLS8",
+    "wallet": "3m3Pfj2qq9K9LdJoJPZVBL2z8wbQAUPCzQAAAmasDR6k",
+    "nickname": "REX",
+    "lastConnectionDate": "2025-03-23T23:27:27.904Z",
+    "lastNicknameChange": "2025-03-23T23:27:57.186Z"
+  },
+  "J4NZ7jBAmeyQzQ5b148X3jNB7bsuUVBcsiXxZKmHfBQA": {
+    "identifier": "JPb6noIVHJPIds8s8peXk7ZN",
+    "wallet": "J4NZ7jBAmeyQzQ5b148X3jNB7bsuUVBcsiXxZKmHfBQA",
+    "nickname": "User_7bdc1eb1bfb3963ad8518772",
+    "lastConnectionDate": "2025-03-24T00:25:53.991Z",
+    "lastNicknameChange": ""
+  }
+}
